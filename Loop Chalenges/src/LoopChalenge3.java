@@ -16,7 +16,7 @@ public class LoopChalenge3
 					{
 				System.out.println( counter );
 				counter = counter * 2;
-				//a change
+				//a change at home
 				
 			}
 
